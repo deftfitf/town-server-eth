@@ -1,0 +1,3 @@
+eth.wallet:
+  password: # set your wallet file password
+  walletFilePath: # set your wallet file

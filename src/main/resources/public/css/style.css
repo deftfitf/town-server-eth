@@ -1,0 +1,23 @@
+#town-field {
+  border: none;
+  background-image: url(/public/images/0.gif);
+}
+
+.town-land {
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  margin: 0;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.town-1 {
+  background-image: url(/public/images/1.gif);
+}
+
+.town-2 {
+  background-image: url(/public/images/2.gif);
+}
